@@ -106,7 +106,7 @@ body {
   align-items: center;
 }
 /*about*/
-.About {
+.about {
   background: url("../img/buildings.png") center 101% repeat-x,
     url("../img/buildings__white_3165.png") center 101% repeat-x, #1d1d1d;
   background-size: contain, contain;
